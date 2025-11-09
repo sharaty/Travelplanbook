@@ -5,12 +5,9 @@
     <classes>
       <class name="Searchflight">
         <methods>
-          <include name="onewayserach"/>
-          <include name="searchFlightsAndValidateResults"/>
-          <include name="multiCityFlightSearch"/>
           <include name="selectDatesAndPassengers"/>
           <include name="closeBrowser"/>
-          <include name="launchHomePage"/>
+          <include name="setUp"/>
         </methods>
       </class> <!-- Searchflight -->
     </classes>
